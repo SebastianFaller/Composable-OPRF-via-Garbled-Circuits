@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -Wall -funroll-loops -Wno-ignored-attributes -Wno-unused-result -march=native -maes -mrdseed -std=c++11 -O3 -O3 -DNDEBUG CMakeFiles/hash2Curve_test.dir/hash2Curve_unit_tests.cpp.o CMakeFiles/hash2Curve_test.dir/hash2Curve.cpp.o -o bin/hash2Curve_test  /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

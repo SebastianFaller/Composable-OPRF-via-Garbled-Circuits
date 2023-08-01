@@ -1,0 +1,7 @@
+OPUS benchmark from Wed Jun  7 15:26:31 2023
+ with n = 3 iterations:
+-------------------------
+Measured time for each run:
+[8816.249, 10750.390, 13253.365]
+Average Time [ms]: 10940.002
+Standard Deviation [ms]: 1816.400

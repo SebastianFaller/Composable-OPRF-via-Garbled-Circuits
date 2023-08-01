@@ -1,0 +1,1557 @@
+make all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for x86_64-pc-linux-gnu
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Fri Jul 28 14:12:50 2023
+
+# Variables
+
+# environment
+GDK_BACKEND = x11
+# environment
+LC_ALL = C
+# environment
+GNOME_SHELL_SESSION_MODE = ubuntu
+# environment
+SSH_AGENT_LAUNCHER = gnome-keyring
+# environment
+GJS_DEBUG_OUTPUT = stderr
+# environment
+SNAP_LAUNCHER_ARCH_TRIPLET = x86_64-linux-gnu
+# environment
+LC_NAME = de_CH.UTF-8
+# environment
+LC_NUMERIC = de_CH.UTF-8
+# environment
+VSCODE_CRASH_REPORTER_PROCESS_TYPE = extensionHost
+# environment
+VSCODE_CWD = /home/shf
+# environment
+LC_ADDRESS = de_CH.UTF-8
+# default
+MAKE_COMMAND := make
+# environment
+QT_ACCESSIBILITY = 1
+# automatic
+@D = $(patsubst %/,%,$(dir $@))
+# environment
+SNAP_INSTANCE_NAME = code
+# environment
+GDK_PIXBUF_MODULEDIR = /snap/code/134/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# environment
+PWD = /home/shf/OPRF-Garbled-Circuits/old_implementation
+# automatic
+%D = $(patsubst %/,%,$(dir $%))
+# environment
+XDG_DATA_DIRS = /home/shf/snap/code/134/.local/share:/home/shf/snap/code/134:/snap/code/134/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# automatic
+^D = $(patsubst %/,%,$(dir $^))
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = /home/shf/.config/Code/CachedData/74f6148eb9ea00507ec113ec51c489d6ffb4b771
+# environment
+LANG = C
+# environment
+XAUTHORITY = /run/user/1000/.mutter-Xwaylandauth.T66T81
+# default
+.LOADED := 
+# default
+.INCLUDE_DIRS = /usr/local/include /usr/include /usr/include
+# makefile (from 'Makefile', line 51)
+CMAKE_COMMAND = /usr/bin/cmake
+# makefile
+MAKEFLAGS = pqrR
+# makefile
+CURDIR := /home/shf/OPRF-Garbled-Circuits/old_implementation
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# environment
+LESSOPEN = | /usr/bin/lesspipe %s
+# automatic
+*D = $(patsubst %/,%,$(dir $*))
+# environment
+MFLAGS = -pqrR
+# environment
+SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
+# default
+.SHELLFLAGS := -c
+# environment
+WAYLAND_DISPLAY = wayland-0
+# environment
+XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
+# automatic
++D = $(patsubst %/,%,$(dir $+))
+# environment
+XDG_SESSION_DESKTOP = ubuntu
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# makefile (from 'Makefile', line 63)
+CMAKE_BINARY_DIR = /home/shf/OPRF-Garbled-Circuits/old_implementation
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_PID = 4080
+# environment
+XDG_SESSION_TYPE = wayland
+# automatic
+?D = $(patsubst %/,%,$(dir $?))
+# environment
+BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
+# makefile (from 'Makefile', line 60)
+CMAKE_SOURCE_DIR = /home/shf/OPRF-Garbled-Circuits/old_implementation
+# environment
+SESSION_MANAGER = local/shf-ThinkPad-T15-Gen-2i:@/tmp/.ICE-unix/2299,unix/shf-ThinkPad-T15-Gen-2i:/tmp/.ICE-unix/2299
+# automatic
+*F = $(notdir $*)
+# environment
+CHROME_DESKTOP = code-url-handler.desktop
+# environment
+DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
+# automatic
+<D = $(patsubst %/,%,$(dir $<))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","osLocale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# default
+MAKE_HOST := x86_64-pc-linux-gnu
+# environment
+GTK_PATH = /snap/code/134/usr/lib/x86_64-linux-gnu/gtk-3.0
+# environment
+GNOME_DESKTOP_SESSION_ID = this-is-deprecated
+# makefile (from 'Makefile', line 48)
+SHELL = /bin/sh
+# default
+MAKECMDGOALS := all
+# environment
+XMODIFIERS = @im=ibus
+# environment
+GJS_DEBUG_TOPICS = JS ERROR;JS LOG
+# environment
+SHLVL = 0
+# environment
+MAKELEVEL := 0
+# environment
+IM_CONFIG_CHECK_ENV = 1
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+SNAP_COOKIE = Os1r3qYY-phj7RzVAaAgF1g2RYTV0_bpS30UzRElan8JX7VvBbw2
+# environment
+PATH = /home/shf/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+# default
+MAKEFILES := 
+# environment
+LC_MONETARY = de_CH.UTF-8
+# automatic
+^F = $(notdir $^)
+# environment
+SNAP_USER_COMMON = /home/shf/snap/code/common
+# environment
+LC_TIME = de_CH.UTF-8
+# environment
+SNAP = /snap/code/134
+# environment
+INVOCATION_ID = 3ef514e8e12245fcabe285a38eab9be7
+# environment
+SNAP_REVISION = 134
+# environment
+SNAP_REAL_HOME = /home/shf
+# environment
+USERNAME = shf
+# environment
+GNOME_SETUP_DISPLAY = :1
+# environment
+LC_TELEPHONE = de_CH.UTF-8
+# environment
+LESSCLOSE = /usr/bin/lesspipe %s %s
+# automatic
+?F = $(notdir $?)
+# environment
+GTK_IM_MODULE_FILE = /home/shf/snap/code/common/.cache/immodules/immodules.cache
+# environment
+XDG_CURRENT_DESKTOP = Unity
+# automatic
++F = $(notdir $+)
+# environment
+DESKTOP_SESSION = ubuntu
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
+# environment
+LOCPATH = /snap/code/134/usr/lib/locale
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+XDG_DATA_DIRS_VSCODE_SNAP_ORIG = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+# makefile (from 'Makefile', line 57)
+EQUALS = =
+# environment
+LOGNAME = shf
+# environment
+GIO_LAUNCHED_DESKTOP_FILE = /var/lib/snapd/desktop/applications/code_code.desktop
+# environment
+SNAP_ARCH = amd64
+# makefile
+.DEFAULT_GOAL := default_target
+# environment
+SYSTEMD_EXEC_PID = 2319
+# makefile (from 'Makefile', line 54)
+RM = /usr/bin/cmake -E rm -f
+# environment
+DISPLAY = :0
+# environment
+USER = shf
+# environment
+GTK_MODULES = gail:atk-bridge
+# default
+MAKE_VERSION := 4.3
+# environment
+SNAP_DATA = /var/snap/code/134
+# environment
+SNAP_CONTEXT = Os1r3qYY-phj7RzVAaAgF1g2RYTV0_bpS30UzRElan8JX7VvBbw2
+# environment
+MANAGERPID = 2074
+# environment
+LC_MEASUREMENT = de_CH.UTF-8
+# environment
+GIO_LAUNCHED_DESKTOP_FILE_PID = 4034
+# makefile (from 'Makefile', line 35)
+MAKESILENT = -s
+# environment
+_ = /snap/code/134/usr/share/code/code
+# environment
+LC_PAPER = de_CH.UTF-8
+# environment
+XDG_RUNTIME_DIR = /run/user/1000
+# environment
+XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG = /etc/xdg/xdg-ubuntu:/etc/xdg
+# environment
+GDK_PIXBUF_MODULE_FILE = /home/shf/snap/code/common/.cache/gdk-pixbuf-loaders.cache
+# environment
+GIO_MODULE_DIR = /home/shf/snap/code/common/.cache/gio-modules
+# environment
+JOURNAL_STREAM = 8:34499
+# environment
+XDG_SESSION_CLASS = user
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+HOME = /home/shf
+# environment
+QT_IM_MODULE = ibus
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+VSCODE_IPC_HOOK = /run/user/1000/vscode-7954a63b-1.80-main.sock
+# environment
+GTK_EXE_PREFIX = /snap/code/134/usr
+# environment
+SNAP_NAME = code
+# environment
+GSETTINGS_SCHEMA_DIR = /home/shf/snap/code/134/.local/share/glib-2.0/schemas
+# environment
+IM_CONFIG_PHASE = 1
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# environment
+SNAP_VERSION = 74f6148e
+# default
+SUFFIXES := 
+# environment
+VSCODE_CLI = 1
+# environment
+ELECTRON_NO_ATTACH_CONSOLE = 1
+# environment
+SNAP_COMMON = /var/snap/code/common
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync check-symlink load
+# environment
+SNAP_USER_DATA = /home/shf/snap/code/134
+# environment
+XDG_MENU_PREFIX = gnome-
+# environment
+GDMSESSION = ubuntu
+# environment
+LC_IDENTIFICATION = de_CH.UTF-8
+# environment
+SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
+# variable set hash-table stats:
+# Load=137/1024=13%, Rehash=0, Collisions=5/176=3%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# RCS: could not be stat'd.
+# SCCS: could not be stat'd.
+# . (device 66309, inode 7218857): 42 files, no impossibilities.
+
+# 42 files, no impossibilities in 3 directories.
+
+# Implicit Rules
+ 
+
+%: %,v
+
+%: RCS/%
+
+%: RCS/%,v
+
+%: SCCS/s.%
+
+%: s.%
+
+%.hpux_make_needs_suffix_list:
+
+# 6 implicit rules, 0 (0.0%) terminal.
+# Files
+
+oprf_server_256.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 679):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/oprf_server_256.cpp.o
+
+test_test: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 192):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_test
+
+hash2Curve_test: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 283):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 hash2Curve_test
+
+hash2Curve.i: hash2Curve.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+depend:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 171):
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+
+garbling-scheme.o: garbling-scheme.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_test/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 197):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/build
+
+test_aes_opt: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 504):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_aes_opt
+
+2HashDH_User.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 541):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/2HashDH_User.cpp.o
+
+test_to_bool: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 491):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_to_bool
+
+hash2Curve.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 622):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/hash2Curve.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve.cpp.s
+
+2HashDH_Server.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 517):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_server.dir/build.make CMakeFiles/2HashDH_server.dir/2HashDH_Server.cpp.o
+
+default_target: all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_prg: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 309):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_prg
+
+2HashDH_server/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 262):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_server.dir/build.make CMakeFiles/2HashDH_server.dir/build
+
+test_netio/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 353):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_netio.dir/build.make emp-tool/test/CMakeFiles/test_netio.dir/build
+
+oprf_test.s: oprf_test.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_netio: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 348):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_netio
+
+test_gen_circuit/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 444):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_gen_circuit.dir/build.make emp-tool/test/CMakeFiles/test_gen_circuit.dir/build
+
+oprf_user.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 743):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/oprf_user.cpp.s
+
+test_int/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 405):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_int.dir/build.make emp-tool/test/CMakeFiles/test_int.dir/build
+
+edit_cache/fast: edit_cache
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+2HashDH_server: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 257):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2HashDH_server
+
+test_halfgate: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 478):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_halfgate
+
+test_mitccrh/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 457):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_mitccrh.dir/build.make emp-tool/test/CMakeFiles/test_mitccrh.dir/build
+
+test_f2k: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 465):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_f2k
+
+test_ecc/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 392):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_ecc.dir/build.make emp-tool/test/CMakeFiles/test_ecc.dir/build
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2023-07-28 14:12:26.283716481
+#  File has been updated.
+#  Successfully updated.
+
+2HashDH_User.i: 2HashDH_User.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+rebuild_cache:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 90):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	/usr/bin/cmake --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+
+test_server/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 223):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/build
+
+test_f2k/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 470):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_f2k.dir/build.make emp-tool/test/CMakeFiles/test_f2k.dir/build
+
+test_garble/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 431):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_garble.dir/build.make emp-tool/test/CMakeFiles/test_garble.dir/build
+
+oprf_server.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 663):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/oprf_server.cpp.i
+
+oprf_user.s: oprf_user.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_mitccrh: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 452):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_mitccrh
+
+2HashDH_Server.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 533):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_server.dir/build.make CMakeFiles/2HashDH_server.dir/2HashDH_Server.cpp.s
+
+test.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 775):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/test.cpp.o
+
+oprf_user_256.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 751):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/oprf_user_256.cpp.o
+
+test/fast: test
+ 
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+hash2Curve.s: hash2Curve.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_user_256: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 231):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_user_256
+
+.SILENT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+2HashDH_Server.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 525):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_server.dir/build.make CMakeFiles/2HashDH_server.dir/2HashDH_Server.cpp.i
+
+hash2Curve_unit_tests.s: hash2Curve_unit_tests.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_prp: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 335):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_prp
+
+clean:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 152):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 clean
+
+cmake_force:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+preinstall/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 166):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 preinstall
+
+2HashDH_User.o: 2HashDH_User.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+oprf_test.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 703):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/oprf_test.cpp.o
+
+oprf_test.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 719):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/oprf_test.cpp.s
+
+hash2Curve.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 604):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/hash2Curve.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve.cpp.o
+
+oprf_server_256.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 695):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/oprf_server_256.cpp.s
+
+test_to_bool/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 496):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_to_bool.dir/build.make emp-tool/test/CMakeFiles/test_to_bool.dir/build
+
+test_server_256: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 244):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_server_256
+
+oprf_user.i: oprf_user.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+edit_cache:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 80):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
+	/usr/bin/cmake -E echo No\ interactive\ CMake\ dialog\ available.
+
+test_server_256/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 249):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/build
+
+oprf_server_256.s: oprf_server_256.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_prg/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 314):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_prg.dir/build.make emp-tool/test/CMakeFiles/test_prg.dir/build
+
+oprf_user.o: oprf_user.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+hash2Curve_unit_tests.o: hash2Curve_unit_tests.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+oprf_test.i: oprf_test.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+2HashDH_User.s: 2HashDH_User.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+rebuild_cache/fast: rebuild_cache
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_user_256/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 236):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/build
+
+test_bit/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 379):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_bit.dir/build.make emp-tool/test/CMakeFiles/test_bit.dir/build
+
+oprf_user_256.i: oprf_user_256.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+.hpux_make_needs_suffix_list:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+oprf_server.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 655):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/oprf_server.cpp.o
+
+2HashDH_User.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 549):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/2HashDH_User.cpp.i
+
+hash2Curve_unit_tests.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 631):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve_unit_tests.cpp.o
+
+test_int: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 400):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_int
+
+oprf_user_256.s: oprf_user_256.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+preinstall: all
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 161):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 preinstall
+
+test_prp/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 340):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_prp.dir/build.make emp-tool/test/CMakeFiles/test_prp.dir/build
+
+oprf_test/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 184):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/build
+
+test_hash: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 322):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_hash
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+list_install_components/fast: list_install_components
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+oprf_user_256.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+ 
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 759):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/oprf_user_256.cpp.i
+
+test_netio2/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 366):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_netio2.dir/build.make emp-tool/test/CMakeFiles/test_netio2.dir/build
+
+oprf_test.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 711):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/oprf_test.cpp.i
+
+all: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/6=0%
+#  recipe to execute (from 'Makefile', line 145):
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/shf/OPRF-Garbled-Circuits/old_implementation/CMakeFiles /home/shf/OPRF-Garbled-Circuits/old_implementation//CMakeFiles/progress.marks
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/shf/OPRF-Garbled-Circuits/old_implementation/CMakeFiles 0
+
+garbling-scheme.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 565):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/garbling-scheme.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/garbling-scheme.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/garbling-scheme.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/garbling-scheme.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/garbling-scheme.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/garbling-scheme.cpp.o
+
+test.i: test.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+hash2Curve_unit_tests.i: hash2Curve_unit_tests.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+help:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 796):
+	@echo "The following are some of the valid targets for this Makefile:"
+	@echo "... all (the default if no target is provided)"
+	@echo "... clean"
+	@echo "... depend"
+	@echo "... edit_cache"
+	@echo "... install"
+	@echo "... install/local"
+	@echo "... install/strip"
+	@echo "... list_install_components"
+	@echo "... rebuild_cache"
+	@echo "... test"
+	@echo "... 2HashDH_server"
+	@echo "... 2HashDH_user"
+	@echo "... emp-tool"
+	@echo "... hash2Curve_test"
+	@echo "... oprf_test"
+	@echo "... test_aes_opt"
+	@echo "... test_bit"
+	@echo "... test_ecc"
+	@echo "... test_f2k"
+	@echo "... test_float"
+	@echo "... test_garble"
+	@echo "... test_gen_circuit"
+	@echo "... test_halfgate"
+	@echo "... test_hash"
+	@echo "... test_int"
+	@echo "... test_mitccrh"
+	@echo "... test_netio"
+	@echo "... test_netio2"
+	@echo "... test_prg"
+	@echo "... test_prp"
+	@echo "... test_server"
+	@echo "... test_server_256"
+	@echo "... test_test"
+	@echo "... test_to_bool"
+	@echo "... test_user"
+	@echo "... test_user_256"
+	@echo "... 2HashDH_Server.o"
+	@echo "... 2HashDH_Server.i"
+	@echo "... 2HashDH_Server.s"
+	@echo "... 2HashDH_User.o"
+	@echo "... 2HashDH_User.i"
+	@echo "... 2HashDH_User.s"
+	@echo "... garbling-scheme.o"
+	@echo "... garbling-scheme.i"
+	@echo "... garbling-scheme.s"
+	@echo "... hash2Curve.o"
+	@echo "... hash2Curve.i"
+	@echo "... hash2Curve.s"
+	@echo "... hash2Curve_unit_tests.o"
+	@echo "... hash2Curve_unit_tests.i"
+	@echo "... hash2Curve_unit_tests.s"
+	@echo "... oprf_server.o"
+	@echo "... oprf_server.i"
+	@echo "... oprf_server.s"
+	@echo "... oprf_server_256.o"
+	@echo "... oprf_server_256.i"
+	@echo "... oprf_server_256.s"
+	@echo "... oprf_test.o"
+	@echo "... oprf_test.i"
+	@echo "... oprf_test.s"
+	@echo "... oprf_user.o"
+	@echo "... oprf_user.i"
+	@echo "... oprf_user.s"
+	@echo "... oprf_user_256.o"
+	@echo "... oprf_user_256.i"
+	@echo "... oprf_user_256.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
+
+oprf_server.i: oprf_server.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_garble: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 426):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_garble
+
+oprf_test: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 179):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 oprf_test
+
+oprf_server_256.o: oprf_server_256.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+clean/fast: clean
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+2HashDH_Server.o: 2HashDH_Server.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test.s: test.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+oprf_user.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 735):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/oprf_user.cpp.i
+
+2HashDH_Server.i: 2HashDH_Server.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_bit: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 374):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_bit
+
+test_user/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 210):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/build
+
+garbling-scheme.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 591):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/garbling-scheme.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/garbling-scheme.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/garbling-scheme.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/garbling-scheme.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/garbling-scheme.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/garbling-scheme.cpp.s
+
+2HashDH_User.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 557):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/2HashDH_User.cpp.s
+
+2HashDH_user/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 275):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/build
+
+test:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 70):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running tests..."
+	/usr/bin/ctest --force-new-ctest-process $(ARGS)
+
+oprf_server.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 671):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/oprf_server.cpp.s
+
+oprf_server.o: oprf_server.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_float/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 418):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_float.dir/build.make emp-tool/test/CMakeFiles/test_float.dir/build
+
+test_ecc: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 387):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_ecc
+
+install/fast: preinstall/fast
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+ 
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 115):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
+	/usr/bin/cmake -P cmake_install.cmake
+
+oprf_server_256.i: oprf_server_256.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test_server: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 218):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_server
+
+hash2Curve_unit_tests.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 639):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve_unit_tests.cpp.i
+
+oprf_test.o: oprf_test.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+install/local: preinstall
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 121):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing only the local directory..."
+	/usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+
+oprf_user_256.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 767):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/oprf_user_256.cpp.s
+
+.NOTPARALLEL:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+test_netio2: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 361):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_netio2
+
+oprf_server.s: oprf_server.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+oprf_user_256.o: oprf_user_256.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+emp-tool/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 301):
+	$(MAKE) $(MAKESILENT) -f emp-tool/CMakeFiles/emp-tool.dir/build.make emp-tool/CMakeFiles/emp-tool.dir/build
+
+oprf_server_256.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 687):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/oprf_server_256.cpp.i
+
+test.o: test.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+hash2Curve.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 613):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/2HashDH_user.dir/build.make CMakeFiles/2HashDH_user.dir/hash2Curve.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve.cpp.i
+
+install: preinstall
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 109):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Install the project..."
+	/usr/bin/cmake -P cmake_install.cmake
+
+hash2Curve_unit_tests.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 647):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/hash2Curve_unit_tests.cpp.s
+
+garbling-scheme.i: garbling-scheme.cpp.i
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+list_install_components:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 100):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Available install components are: \"Unspecified\""
+
+cmake_check_build_system:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := cmake_check_build_system
+# automatic
+# * := 
+# automatic
+# < := 
+# automatic
+# + := 
+# automatic
+# % := 
+# automatic
+# ^ := 
+# automatic
+# ? := 
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/14=7%
+#  recipe to execute (from 'Makefile', line 877):
+	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+
+install/strip/fast: preinstall/fast
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 139):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
+	/usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+
+2HashDH_Server.s: 2HashDH_Server.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+emp-tool: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 296):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 emp-tool
+
+test_gen_circuit: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 439):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_gen_circuit
+
+test.cpp.s:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 791):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/test.cpp.s
+
+hash2Curve_test/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 288):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/hash2Curve_test.dir/build.make CMakeFiles/hash2Curve_test.dir/build
+
+garbling-scheme.s: garbling-scheme.cpp.s
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+.SUFFIXES: .hpux_make_needs_suffix_list
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+install/local/fast: preinstall/fast
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 127):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing only the local directory..."
+	/usr/bin/cmake -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake
+
+.PHONY: default_target cmake_force test test/fast edit_cache edit_cache/fast rebuild_cache rebuild_cache/fast list_install_components list_install_components/fast install install/fast install/local install/local/fast install/strip install/strip/fast all clean clean/fast preinstall preinstall/fast depend oprf_test oprf_test/fast test_test test_test/fast test_user test_user/fast test_server test_server/fast test_user_256 test_user_256/fast test_server_256 test_server_256/fast 2HashDH_server 2HashDH_server/fast 2HashDH_user 2HashDH_user/fast hash2Curve_test hash2Curve_test/fast emp-tool emp-tool/fast test_prg test_prg/fast test_hash test_hash/fast test_prp test_prp/fast test_netio test_netio/fast test_netio2 test_netio2/fast test_bit test_bit/fast test_ecc test_ecc/fast test_int test_int/fast test_float test_float/fast test_garble test_garble/fast test_gen_circuit test_gen_circuit/fast test_mitccrh test_mitccrh/fast test_f2k test_f2k/fast test_halfgate test_halfgate/fast test_to_bool test_to_bool/fast test_aes_opt test_aes_opt/fast 2HashDH_Server.o 2HashDH_Server.cpp.o 2HashDH_Server.i 2HashDH_Server.cpp.i 2HashDH_Server.s 2HashDH_Server.cpp.s 2HashDH_User.o 2HashDH_User.cpp.o 2HashDH_User.i 2HashDH_User.cpp.i 2HashDH_User.s 2HashDH_User.cpp.s garbling-scheme.o garbling-scheme.cpp.o garbling-scheme.i garbling-scheme.cpp.i garbling-scheme.s garbling-scheme.cpp.s hash2Curve.o hash2Curve.cpp.o hash2Curve.i hash2Curve.cpp.i hash2Curve.s hash2Curve.cpp.s hash2Curve_unit_tests.o hash2Curve_unit_tests.cpp.o hash2Curve_unit_tests.i hash2Curve_unit_tests.cpp.i hash2Curve_unit_tests.s hash2Curve_unit_tests.cpp.s oprf_server.o oprf_server.cpp.o oprf_server.i oprf_server.cpp.i oprf_server.s oprf_server.cpp.s oprf_server_256.o oprf_server_256.cpp.o oprf_server_256.i oprf_server_256.cpp.i oprf_server_256.s oprf_server_256.cpp.s oprf_test.o oprf_test.cpp.o oprf_test.i oprf_test.cpp.i oprf_test.s oprf_test.cpp.s oprf_user.o oprf_user.cpp.o oprf_user.i oprf_user.cpp.i oprf_user.s oprf_user.cpp.s oprf_user_256.o oprf_user_256.cpp.o oprf_user_256.i oprf_user_256.cpp.i oprf_user_256.s oprf_user_256.cpp.s test.o test.cpp.o test.i test.cpp.i test.s test.cpp.s help cmake_check_build_system
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+hash2Curve.o: hash2Curve.cpp.o
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+
+test.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 783):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/test.cpp.i
+
+test_hash/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 327):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_hash.dir/build.make emp-tool/test/CMakeFiles/test_hash.dir/build
+
+test_user: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 205):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_user
+
+test_halfgate/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 483):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_halfgate.dir/build.make emp-tool/test/CMakeFiles/test_halfgate.dir/build
+
+garbling-scheme.cpp.i:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 578):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/oprf_test.dir/build.make CMakeFiles/oprf_test.dir/garbling-scheme.cpp.i
+ 
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_test.dir/build.make CMakeFiles/test_test.dir/garbling-scheme.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/garbling-scheme.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server.dir/build.make CMakeFiles/test_server.dir/garbling-scheme.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user_256.dir/build.make CMakeFiles/test_user_256.dir/garbling-scheme.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_server_256.dir/build.make CMakeFiles/test_server_256.dir/garbling-scheme.cpp.i
+
+test_float: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 413):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 test_float
+
+oprf_user.cpp.o:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 727):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/test_user.dir/build.make CMakeFiles/test_user.dir/oprf_user.cpp.o
+
+2HashDH_user: cmake_check_build_system
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 270):
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 2HashDH_user
+
+install/strip: preinstall
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 133):
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Installing the project stripped..."
+	/usr/bin/cmake -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake
+
+test_aes_opt/fast:
+#  Phony target (prerequisite of .PHONY).
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 509):
+	$(MAKE) $(MAKESILENT) -f emp-tool/test/CMakeFiles/test_aes_opt.dir/build.make emp-tool/test/CMakeFiles/test_aes_opt.dir/build
+
+# files hash-table stats:
+# Load=149/1024=15%, Rehash=0, Collisions=47/556=8%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 200 / storage = 3069 B / avg = 15 B
+# current buf: size = 8162 B / used = 3069 B / count = 200 / avg = 15 B
+
+# strcache performance: lookups = 857 / hit rate = 76%
+# hash-table stats:
+# Load=200/8192=2%, Rehash=0, Collisions=4/857=0%
+# Finished Make data base on Fri Jul 28 14:12:50 2023
+
+ 
