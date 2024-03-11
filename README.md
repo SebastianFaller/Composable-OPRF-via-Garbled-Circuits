@@ -9,7 +9,7 @@ secure implementation of Garbled Circuits, provided by PQ-MPC. The folder OIDA i
 ## Prerequisits
 You have to install cmake, OPENSSL, PKG-Config and Boost via
 
-`sudo apt install cmake libssl-dev pkg-config libboost-all-dev`
+`sudo apt install cmake libssl-dev pkg-config libboost-all-dev g++`
 
 Then run 
 `git clone`
